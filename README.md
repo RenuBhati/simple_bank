@@ -2,6 +2,5 @@
 Creating a simple bank using Golang, Postgres, Redis, Gin, gRPC, Docker, Kubernetes, AWS, CI/CD
 
 # Schema
-![Schema](<Simple bank.png>)
-
+![Schema](<simple-bank.png>)
 
